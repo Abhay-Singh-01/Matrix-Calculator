@@ -1,7 +1,6 @@
-# Programming Assignment 4
+# Matrix Calculator
 
-Abhay Singh, abrsingh
-2022 CSE101 Spring
+Abhay Singh
 
 ## Files
 
@@ -33,3 +32,6 @@ Makefile:
 
 README:
     The current file that outlines each file to be used in the final project.
+    
+    
+ Note: This project was created in CSE101 Spring 2022 at UCSC.
